@@ -1,0 +1,7 @@
+-make asteroids rotate in random directions when spawned
+    *come back to later
+-make asteroids vary in speed when spawned for higher difficulties
+    -ex. easy(no variation), medium, (some variation), high(lots of variation)
+-maybe make asteroids as part of background with moving stars
+    -maybe also make planets appear occasionally
+-update textures for other powerups
